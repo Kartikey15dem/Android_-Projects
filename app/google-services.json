@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875949916971",
+    "project_id": "firedatabse-d7e18",
+    "storage_bucket": "firedatabse-d7e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875949916971:android:0f3837e850a151f81dbb6e",
+        "android_client_info": {
+          "package_name": "com.example.firedatabse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6UCbIU3zBeN9DpIJ3Nh_ou2u-Wo03IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
